@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Small_ones_by_YT</folder>
+	<filename>nano1VflipLR_01_01.png</filename>
+	<path>C:\Users\ajayt\OneDrive\Desktop\Small_ones_by_YT\nano1VflipLR_01_01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>341</ymin>
+			<xmax>229</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>
