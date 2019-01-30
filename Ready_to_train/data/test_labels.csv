@@ -1,0 +1,6 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+nano2LR_02_01.png,479,640,nano,400,212,460,276
+nano2VflipLR_01_02.png,479,640,nano,301,507,328,536
+nano2Vflip_02_01.png,640,479,nano,364,18,430,81
+nano2HflipRR_02_02.png,479,640,nano,18,211,83,276
+nano2VflipLR_02_02.png,479,640,nano,20,208,87,276
