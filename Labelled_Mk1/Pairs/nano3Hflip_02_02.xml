@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Small_ones_by_YT</folder>
+	<filename>nano3Hflip_02_02.png</filename>
+	<path>C:\Users\ajayt\OneDrive\Desktop\Small_ones_by_YT\nano3Hflip_02_02.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>63</ymin>
+			<xmax>597</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>
